@@ -1,5 +1,5 @@
 📺央视频道,#genre#
-CCTV-1
+CCTV-1,https://iptv.6hlk.asia.m3u8
 CCTV-2
 CCTV-3
 CCTV-4
